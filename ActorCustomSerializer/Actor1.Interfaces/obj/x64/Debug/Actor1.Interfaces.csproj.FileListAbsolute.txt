@@ -1,0 +1,70 @@
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Actor1.Interfaces.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Actor1.Interfaces.pdb
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Preview.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.Strings.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Preview.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.pdb
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.csproj.CopyComplete
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Actor1.Interfaces.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Actor1.Interfaces.pdb
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Preview.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.Management.ServiceModel.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.Strings.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Preview.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\bin\x64\Debug\System.Fabric.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.csproj.CopyComplete
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\Actor1.Interfaces\obj\x64\Debug\Actor1.Interfaces.pdb

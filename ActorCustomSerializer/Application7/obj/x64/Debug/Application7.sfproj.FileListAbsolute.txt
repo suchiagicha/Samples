@@ -1,0 +1,2 @@
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\Application7\obj\x64\Debug\Application7.sfproj.CoreCompileInputs.cache
+C:\Users\suchia\source\repos\ActorCustomSerializer\Application7\obj\x64\Debug\Application7.sfproj.CoreCompileInputs.cache

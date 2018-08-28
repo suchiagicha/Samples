@@ -1,0 +1,83 @@
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.exe
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.Interfaces.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Preview.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.Management.ServiceModel.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.Strings.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.Interfaces.pdb
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.pdb
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Preview.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.xml
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.exe.config
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\suchia\Documents\Visual Studio 2015\Projects\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.Management.ServiceModel.XmlSerializers.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.exe
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.Interfaces.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.Extensions.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Diagnostics.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.FabricTransport.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.FabricTransport.V2.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Preview.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.ReliableCollection.Interop.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Services.Remoting.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.Management.ServiceModel.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.Strings.dll
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.Interfaces.pdb
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.pdb
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Actor1.exe.config
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Diagnostics.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.FabricTransport.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.FabricTransport.V2.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Preview.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Microsoft.ServiceFabric.Services.Remoting.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\bin\Debug\System.Fabric.xml
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\suchia\source\repos\ActorCustomSerializer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
